@@ -1,0 +1,19 @@
+{
+  "name": "drupal/replicate_date",
+  "description": "Provides additional fields to the Replicate UI module for replicating entitiies based on a date field.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "require": {
+      "drupal/core": "^8 || ^9",
+      "drupal/replicate": "^1.0",
+      "drupal/replicate_ui": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Justin Gossett",
+      "email": "jgossett@chillco.com",
+      "homepage": "http://chillco.com",
+      "role": "Maintainer"
+    }
+  ]
+}

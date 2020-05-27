@@ -2,7 +2,7 @@ name: "Replicate Date"
 core: "8.x"
 core_version_requirement: ^8 || ^9
 type: module
-description: "Provides additional fields to the Replicate UI module for replicating entitiies based on a date field."
+description: "Provides additional fields to the Replicate UI module for replicating entities based on a date field."
 package: "Entity"
 dependencies:
   - replicate:replicate
